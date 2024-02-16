@@ -12,7 +12,7 @@ Python 3.x
 browse_win module (details required on its implementation)
 
 Usage:
-
+use "pip install Browse-win==0.0.1" or visit "https://pypi.org/project/Browse-win/0.0.1/"
 Save the script as file_uploader.py.
 Run the script: python file_uploader.py.
 Type "File" and press Enter when prompted.
